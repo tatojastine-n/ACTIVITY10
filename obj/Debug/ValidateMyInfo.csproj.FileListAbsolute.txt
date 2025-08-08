@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\ValidateMyInfo\obj\Debug\ValidateMyInfo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ValidateMyInfo\obj\Debug\ValidateMyInfo.csproj.CoreCompileInputs.cache
